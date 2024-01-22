@@ -10,3 +10,5 @@ pytube		[pip install pytube]
 PySimlpeGUI	[pip install PySimpleGUI]
 
 ffmpeg		[https://phoenixnap.com/kb/ffmpeg-windows]
+
+future plans r to just make the ui less terrible and make it run better
