@@ -7,18 +7,21 @@ when you download something, it will create an outputs directory wherever ur cur
 
 sources should be cited within the code
 
-requirements :
-python 		[made on 3.12]
+REQUIREMENTS :
+python 	    [made on 3.12]
 
-pytube		[pip install pytube]
+python packages:
+run 
+pip install -r requirements.txt
+
+or manually download stuff
+pytube	    [pip install pytube]
 pathlib     [pip install pathlib]
-tkinter     [pip install tkinter]
-        or  [pip install PySimpleGUI] (i think its bundled in simplegui)
+tkinter     [pip install PySimpleGUI] (i think its bundled in simplegui)
 
+other stuff:
 ffmpeg		[https://phoenixnap.com/kb/ffmpeg-windows]
 
-future plans r to just make the ui less terrible and make it run better
-
-once you have all the dependencies downloaded u can jusr run runme.py :P
+once you have all the dependencies downloaded u can just run runme.py :P
 
 the console also has some relevant/helpful outputs so feel free to look there as u go
