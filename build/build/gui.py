@@ -60,7 +60,7 @@ def updater(i):
 # this tool rocks though
 
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path(r"C:\Users\parkerseeley\Documents\PYdump\ytdl\build\build\assets\frame0")
+ASSETS_PATH = OUTPUT_PATH / Path(r"assets\frame0") # i dont want this to be a set loc
 
 
 def relative_to_assets(path: str) -> Path:
