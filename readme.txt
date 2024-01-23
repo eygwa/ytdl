@@ -8,14 +8,14 @@ when you download something, it will create an outputs directory wherever ur cur
 sources should be cited within the code
 
 requirements :
-python 		[made on 3.12]
+python      [made on 3.12]
 
-pytube		[pip install pytube]
+pytube      [pip install pytube]
 pathlib     [pip install pathlib]
 tkinter     [pip install tkinter]
         or  [pip install PySimpleGUI] (i think its bundled in simplegui)
 
-ffmpeg		[https://phoenixnap.com/kb/ffmpeg-windows]
+ffmpeg	    [https://phoenixnap.com/kb/ffmpeg-windows]
 
 future plans r to just make the ui less terrible and make it run better
 
