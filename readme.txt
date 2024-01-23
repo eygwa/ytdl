@@ -22,8 +22,6 @@ tkinter     [pip install PySimpleGUI] (i think its bundled in simplegui)
 other stuff:
 ffmpeg		[https://phoenixnap.com/kb/ffmpeg-windows]
 
-once you have all the dependencies downloaded u can just run runme.py :P
+once you have all the dependencies downloaded u can just run runme.bat
 
-the console also has some relevant/helpful outputs so feel free to look there as u go
-
-you may have to use some command line to switch ur working directory and run the command "python runme.py" ill work on fixing that
+the console might have some helpful output if something is breaking :P
