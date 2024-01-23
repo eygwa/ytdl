@@ -25,3 +25,5 @@ ffmpeg		[https://phoenixnap.com/kb/ffmpeg-windows]
 once you have all the dependencies downloaded u can just run runme.py :P
 
 the console also has some relevant/helpful outputs so feel free to look there as u go
+
+you may have to use some command line to switch ur working directory and run the command "python runme.py" ill work on fixing that
